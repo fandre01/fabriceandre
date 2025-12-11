@@ -3,7 +3,7 @@ layout: cv
 title: Fabrice CV
 ---
 # Fabrice Coolguy
-I am the world's most important man.
+I like DS.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
