@@ -2,13 +2,13 @@
 layout: cv
 title: Fabrice CV
 ---
-<<<<<<< HEAD
+
 # Fabrice 
 No body likes soccer more than me.
 =======
 # Fabrice Coolguy
 I like DS.
->>>>>>> 55cb9f10575655bbf8a27cfe4bdd42114175562c
+
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
