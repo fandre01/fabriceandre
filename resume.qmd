@@ -11,23 +11,14 @@ I like DS.
 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofal.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="www.linkedin.com/in/fabrice-andré01">LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giant
+I'm currently studying computer science.
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
@@ -46,33 +37,8 @@ __BYU Idaho__
 Associate Degree in computer Science
 Software Development Certicate.
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
 ## Occupation
 
 `Student`
 
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
